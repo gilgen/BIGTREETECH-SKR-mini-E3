@@ -1152,7 +1152,7 @@
   #endif
 
   #if HAS_MARLINUI_U8GLIB
-    #define PRINT_PROGRESS_SHOW_DECIMALS // Show progress with decimal digits
+    // #define PRINT_PROGRESS_SHOW_DECIMALS // Show progress with decimal digits
   #endif
 
   #if EITHER(HAS_MARLINUI_HD44780, IS_TFTGLCD_PANEL)
